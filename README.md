@@ -34,10 +34,12 @@ K-Means Clustering, and
 Hierarchical Clustering.
 
 Key Insights:
+
 Identified groups of stocks with similar financial behavior,
 Highlighted high-risk vs low-risk clusters. and
 Provided insights for portfolio diversification.
 
 Results
+
 Successfully segmented stocks into meaningful clusters, and
 Enabled data-driven investment decision-making:
