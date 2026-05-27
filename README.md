@@ -49,9 +49,11 @@ To determine structural cohesion and separation across the stock universe, both 
 * **Investment Decision Support:** Replaced intuitive asset allocation with a mathematically sound, distance-based classification system to eliminate human cognitive bias in stock selection.
 
 ## Cluster Geometry & Visualizations
-*Insert a scatter plot showing your final clusters (e.g., Return vs. Volatility colored by cluster ID) or your SciPy Dendrogram.*
 <img width="1716" height="228" alt="Screenshot 2026-05-27 161927" src="https://github.com/user-attachments/assets/2ba92b72-a6fe-4b00-ab7f-bfdd80255717" />
 <img width="1184" height="684" alt="download" src="https://github.com/user-attachments/assets/732599dc-94b0-4c13-a3af-5ba6d1bdfba3" />
+<img width="1547" height="117" alt="Screenshot 2026-05-27 162302" src="https://github.com/user-attachments/assets/0d18a153-3b39-4cf3-beaa-ac85e7a0e479" />
+<img width="703" height="522" alt="download" src="https://github.com/user-attachments/assets/a1cc4e36-62ea-4abb-a7ac-5a004607949f" />
+
 
 
 
