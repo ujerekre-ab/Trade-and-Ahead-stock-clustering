@@ -77,9 +77,18 @@ To determine structural cohesion and separation across the stock universe, both 
 ## Cluster Geometry & Visualizations
 <img width="1716" height="228" alt="Screenshot 2026-05-27 161927" src="https://github.com/user-attachments/assets/2ba92b72-a6fe-4b00-ab7f-bfdd80255717" />
 <img width="1184" height="684" alt="download" src="https://github.com/user-attachments/assets/732599dc-94b0-4c13-a3af-5ba6d1bdfba3" />
+
+<img width="1745" height="139" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/d6ef1a32-b7e3-4a67-827a-59d678a9e127" />
+<img width="1766" height="781" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/26c8e27c-8436-4f44-9155-81de7c6b5b45" />
+
 <img width="1547" height="117" alt="Screenshot 2026-05-27 162302" src="https://github.com/user-attachments/assets/0d18a153-3b39-4cf3-beaa-ac85e7a0e479" />
 <img width="703" height="522" alt="download" src="https://github.com/user-attachments/assets/a1cc4e36-62ea-4abb-a7ac-5a004607949f" />
 
+<img width="1759" height="705" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/819658c8-fe0d-4e27-a03c-d2b9582c8cc7" />
+<img width="1748" height="803" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a7227236-99a6-46b6-a182-3dd6bd9a6c1f" />
+<img width="1775" height="800" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/63ec3ab0-39c6-49ad-bcb7-7a865b40125f" />
+<img width="1746" height="796" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/698c76c0-0bfc-4517-8460-3033d82cdeb4" />
+<img width="1769" height="824" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/d5066ad0-1aad-4fa0-90db-330ff1e1bc0d" />
 
 
 
