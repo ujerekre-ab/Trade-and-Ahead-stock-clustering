@@ -2,7 +2,13 @@
 An unsupervised machine learning pipeline utilizing K-Means and Hierarchical Clustering to segment equities based on financial health, volatility profiles, and performance metrics.
 
 ## Business Objective
-Discover latent structural patterns within equity markets by grouping stocks with highly correlated financial characteristics. This pipeline automates asset tiering, separates high-risk from low-risk instruments, and provides institutional-grade data driven insights to optimize portfolio diversification strategies.
+Discover latent structural patterns within equity markets by grouping stocks with highly correlated financial characteristics. This pipeline automates asset tiering, separates high-risk from low-risk instruments, and provides data-driven insights to support portfolio diversification and risk analysis.
+
+## Dataset Overview
+- Number of Stocks: 340 
+- Number of Financial Features: 11
+- Industry: Equity Markets
+- Learning Method: Unsupervised Learning
 
 ## Tech Stack & Advanced Libraries
 * **Language:** Python
@@ -11,6 +17,26 @@ Discover latent structural patterns within equity markets by grouping stocks wit
 * **Statistical & Hierarchical Computation:** SciPy
 * **Data Visualization:** Matplotlib, Seaborn
 
+## Business Questions
+- Can stocks be grouped based on similar financial characteristics?
+- Which stocks exhibit high-risk versus low-risk behavior?
+- Can clustering support portfolio diversification decisions?
+- What hidden relationships exist across industries?
+
+## Skills Demonstrated
+- Unsupervised Machine Learning
+- K-Means Clustering
+- Hierarchical Clustering
+- Feature Scaling
+- Data Visualization
+- Exploratory Data Analysis
+- Financial Analytics
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- SciPy
+  
 ## Feature Matrix & Market Indicators
 The unsupervised model processes multi-dimensional financial data points, including:
 * **Financial Ratios:** Valuation, profitability, and operational leverage metrics.
@@ -45,8 +71,8 @@ To determine structural cohesion and separation across the stock universe, both 
 
 ### Core Market Discoveries & Portfolio Impact
 * **Risk & Volatility Stratification:** The pipeline successfully isolated a distinct cluster of high-yield, hyper-volatile equities, cleanly separating them from low-beta, defensive blue-chip asset profiles.
-* **Automated Asset Diversification:** Identified hidden, non-obvious correlations across different sectors. Stocks from completely separate legacy industries were clustered together due to identical capital-structure behaviors, offering a framework for strict risk hedging.
-* **Investment Decision Support:** Replaced intuitive asset allocation with a mathematically sound, distance-based classification system to eliminate human cognitive bias in stock selection.
+* **Automated Asset Diversification:** The clustering model identified stocks with similar financial characteristics, helping investors build more diversified portfolios.
+* **Investment Decision Support:** The clustering framework provides a data-driven approach to grouping stocks and reducing subjective investment decisions.
 
 ## Cluster Geometry & Visualizations
 <img width="1716" height="228" alt="Screenshot 2026-05-27 161927" src="https://github.com/user-attachments/assets/2ba92b72-a6fe-4b00-ab7f-bfdd80255717" />
